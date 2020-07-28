@@ -37,9 +37,3 @@ body {
 .button:visited {
     background: red;
   }
-
-.title {
-    color: brown;
-    margin: 2.5rem;
-}
-
