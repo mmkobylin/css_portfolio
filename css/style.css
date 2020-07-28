@@ -1,42 +1,7 @@
 body {
-    color:brown;
-    background-color: burlywood;
+    background-color: antiquewhite;
     text-align: center;
-    margin: 2.6rem;
 }
-
-.form .text{
-    font-weight: bold;
-    font-style: oblique;
-}
-
-.form label {
-    font-weight: bold;
-}
-
-.button {
-    border: lightcoral, solid, 5px;
-    border-radius: 5%;
-    color: white;
-    background-image: linear-gradient(violet, purple);
-    padding:1.2rem;
-    font-size: 1.5rem;
-    font-weight: bolder;
-    width: 20%;
-}
-
-.button:active {
-    color: red;
-    }
-    
- .button:hover{
-    background: indigo; 
-    color: white;       
-    }
-
-.button:visited {
-    background: red;
-  }
 
 .title {
     color: brown;
