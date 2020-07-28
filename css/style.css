@@ -3,6 +3,12 @@ body {
     text-align: center;
 }
 
+nav p {
+    color: green;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
 .title {
     color: brown;
     margin: 2.5rem;
